@@ -13,6 +13,9 @@ namespace LabTest
             Console.WriteLine("omar");
             Console.WriteLine("1020");
 
+            Console.WriteLine("karem");
+            Console.WriteLine("ahmed");
+
         }
     }
 }
